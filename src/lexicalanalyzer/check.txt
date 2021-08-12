@@ -1,0 +1,7 @@
+class a{
+ public static void main(){
+ this.a=b+a/2+3;
+a.b.c[6].fn()[6]=6;
+
+ }
+}

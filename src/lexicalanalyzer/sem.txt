@@ -1,0 +1,120 @@
+class Parent{
+   int number;
+
+  Parent(int a){
+   this.number=a;
+   }
+
+  int sum(int y){
+  
+    return 1;
+  }
+  
+}
+class A extends Parent{
+
+  int rollno;
+  String name;
+  
+
+  A(String name){
+    super("kh");
+    this.name=name;
+     
+   
+  }
+
+  
+  A(){
+   
+   this("sum");
+   
+  }
+
+  String x;
+  static int y;
+
+ static Parent fn(int a){
+     float x=4;
+    while(x<7){
+       int a=x*3;     $redeclare a & type mismatch (int = float * int)
+        if(a<10){     
+          int a=1;    $redeclare a
+            x+=a;         
+           
+          }
+        else{
+          x+=2;
+        }
+     }
+    Parent p=new Parent();
+   return p;
+  }
+
+String fn(int x,int b){
+    super.number=5;
+    x+=b;
+   return "kh";  
+}
+
+}
+
+class B{
+  int y=6;
+
+  static A cl(){
+      A a=new A();
+      return a;
+   }
+}
+
+class C extends B{
+ 
+public static void main(){
+  
+  A a=new A("sum");
+  B b=new B();
+
+  
+  int z=4+5*6/5+a.rollno;
+  int n;
+  String value="zero"+"value";
+  
+   while(z+4){
+     a.x="mul";
+     int z;
+   
+     if(n+2<z==7+a.rollno){
+       int K;
+       b.y=9;
+     }
+    else{
+       int K;
+     }
+   } 
+
+ 
+  if(n==4){
+
+   }
+
+   a.x="kh";
+   B.cl().rollno=4;
+   B.cl().rollno++;
+ 
+
+  if(z<4){int jj;}  
+  else{} 
+  
+  a.fn(4);
+  a.fn(5,6);
+      
+  B.cl().fn(4).number=4;
+  B.cl().fn(4,7);  
+ 
+ 
+  }
+
+}
+
+

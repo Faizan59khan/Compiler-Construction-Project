@@ -1,0 +1,91 @@
+private class calc{}
+public abs class calc{}
+private fin class calc{}
+fin class calc{}
+abs class calc{}
+public enum a{};
+
+class b{ 
+
+public enum a{WINTER, SPRING, SUMMER, FALL };
+
+  public b(int a, a A,int [][][] a,char c,A a){
+     this.a=5;}
+
+    b(int a,int[] a){
+     this.a=xx*5;
+}
+
+  public static abs int fn();
+
+ public static A a=new A(x,b);
+
+static class a extends b{
+     enum s{WINTER, SPRING, SUMMER, FALL };}
+
+
+
+public static void main(){
+
+int nn=5;
+
+$float b,x=b=c;
+
+  c=this.a++;
+public static int[][] a=new int[5][4];
+static int[][] a=new int[5][4];
+a[i][0]=5.6; 
+a.b.c[6].fn()[6]=6;
+
+fn();
+fn(4,"syntax",'\n',true);
+
+obj M=new A(3,4,b[7]);
+
+while(4<=5&i==4+5|true){
+    if(i==8){}
+   if(i==4){ b+=5; fn();}
+   else{
+      break;}}
+
+do{return;}while(true);
+
+for(;;){}
+for(int a=0;a<=5;a++){
+int a=5;}
+
+switch(!true){
+case 1:  c[8]="done";
+       break;
+case 'c':break;
+default:
+   break;}
+
+
+  return fn(5);
+  return 0;
+  return ;
+
+
+}
+}
+
+
+
+private class calc{
+
+public b(int a){
+a=nn+ b;
+     super.a(a.b.fn().fn().x+45-fn().y.FN());
+     this.a=5;}
+
+    b(int a, A x){
+     super.a.b(5).c[i]=5;}
+
+ public static A a=new A(a,x);}
+
+public abs class calc{}
+private fin class calc{}
+fin class calc{
+abs class calc{}
+enum a{};}
